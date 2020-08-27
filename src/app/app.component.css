@@ -14,6 +14,8 @@ body{
     margin-right: auto;
     width: 200px;
     height: 125px;
+    visibility: hidden;
+
 }
   
   .input-text {
